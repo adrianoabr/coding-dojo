@@ -4,7 +4,7 @@ import classes from './App.module.scss';
 function App() {
   return (
     <div className={classes.changecolor}>
-      Hello Dojo!
+      Hello Dojo!!!
     </div>
   );
 }
