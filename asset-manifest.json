@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.31ff0b6d.css",
-    "main.js": "/static/js/main.b85a7ef0.js",
-    "index.html": "/index.html",
-    "main.31ff0b6d.css.map": "/static/css/main.31ff0b6d.css.map",
-    "main.b85a7ef0.js.map": "/static/js/main.b85a7ef0.js.map"
+    "main.css": "/coding-dojo/static/css/main.31ff0b6d.css",
+    "main.js": "/coding-dojo/static/js/main.b85a7ef0.js",
+    "index.html": "/coding-dojo/index.html",
+    "main.31ff0b6d.css.map": "/coding-dojo/static/css/main.31ff0b6d.css.map",
+    "main.b85a7ef0.js.map": "/coding-dojo/static/js/main.b85a7ef0.js.map"
   },
   "entrypoints": [
     "static/css/main.31ff0b6d.css",
